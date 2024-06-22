@@ -10,7 +10,7 @@ This is a simple password generator written in Python. It generates a random pas
 
 ## Example
 
-How many characters would you like your password to be? 10
+How many characters would you like your password to be? 10 /n
 z2>+\*!?s>f
 
 ## Features
