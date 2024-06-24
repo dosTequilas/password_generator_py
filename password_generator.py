@@ -1,10 +1,9 @@
 import random
 
-# initialize the pseudorandom number generator
+# initializing the pseudorandom number generator
 random.seed()
 
 print("Password Generator")
-#  write your code below
 password_length = int(input("How many characters would you like your password to be? "))
 password = ''
 counter = 0
